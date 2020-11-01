@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "mypage",
-    "currentPage": "index.html",
+    "currentPage": "Knowledge.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2982,7 +2982,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-6.jpg"
       },
       "components": [
         {
